@@ -1,0 +1,13 @@
+{
+  "name": "AwesomeProjectOka",
+  "displayName": "AwesomeProjectOka",
+  "owner": "autozendev",
+  "expo": {
+    "android": {
+      "package": "com.awesomeprojectoka"
+    },
+    "ios": {
+      "bundleIdentifier": "org.reactjs.native.example.AwesomeProjectOka"
+    }
+  }
+}
